@@ -6,7 +6,7 @@
      <extensionpoint>
      <!-- location shows where the app will be embedded -->
           <location>LOAN_ACCOUNT_VIEW</location>
-          <label>Google</label>
+          <label>Google1</label>
           <url>https://google.com/</url>
      </extensionpoint>
 </app>
