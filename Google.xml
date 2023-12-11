@@ -1,0 +1,12 @@
+<app>
+     <id>MG02</id>
+     <name>Google</name>
+     <provider>Mantas Google</provider>
+     <description>Mantas Google</description>
+     <extensionpoint>
+     <!-- location shows where the app will be embedded -->
+          <location>BRANCH_VIEW</location>
+          <label>XE Exchange Tool</label>
+          <url>https://www.google.com/</url>
+     </extensionpoint>
+</app>
